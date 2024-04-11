@@ -1,0 +1,35 @@
+{
+  "name": "Module Repo",
+  "metadata": {
+    "version": 1,
+    "timestamp": 1712810851.347392
+  },
+  "modules": [
+    {
+      "id": "safetynet-fix",
+      "name": "Universal SafetyNet Fix",
+      "version": "v2.4.0",
+      "versionCode": 20400,
+      "author": "kdrag0n",
+      "description": "A universal fix for SafetyNet and Play Integrity on Android 8\u201313 devices with hardware attestation.",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1712810851.347392,
+        "license": "GPL-3.0",
+        "homepage": "https://kdrag0n.dev/",
+        "source": "https://github.com/kdrag0n/safetynet-fix.git",
+        "support": "https://github.com/kdrag0n/safetynet-fix/issues",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1673286512.0,
+          "version": "v2.4.0",
+          "versionCode": 20400,
+          "zipUrl": "https://ivy-tokito.github.io/module-repo/modules/safetynet-fix/v2.4.0_20400.zip",
+          "changelog": "https://ivy-tokito.github.io/module-repo/modules/safetynet-fix/v2.4.0_20400.md"
+        }
+      ]
+    }
+  ]
+}
